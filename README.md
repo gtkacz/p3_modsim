@@ -1,1 +1,1 @@
-# p3_modsim
+# Projeto 3 - Modelagem e Simulação do Mundo Físico
